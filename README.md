@@ -72,8 +72,6 @@ pip install -e ./act/detr  # More info at https://github.com/tonyzhaozh/act
 conda install pytorch==2.1.2 torchvision==0.16.2 torchaudio==2.1.2 pytorch-cuda=12.1 -c pytorch -c nvidia
 ```
 
-If this project is helpful to you, please give us a star. We greatly appreciate it! ⭐ ⭐ ⭐ ⭐ ⭐
-
 ## Usage
 
 ### 1. Test RLBench Task Builder
@@ -211,5 +209,6 @@ or our work on Constrained Behavior Cloning for Robotic Learning
 }
 ```
 
+If this project is helpful to you, please give us a star. We greatly appreciate it! ⭐ ⭐ ⭐ ⭐ ⭐
 
 
